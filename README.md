@@ -7,5 +7,5 @@ Preferable use replit to host it. You can also use uptime robot to make sure it 
 Quick tutorial
 https://www.youtube.com/watch?v=-5ptk-Klfcw&t=69s
 # Credits
-Thanks to https://github.com/karlopy for the main base of the application. But the rest was coded by me 1 L0#1111
+Thanks to NightFallGT For Making This Website: https://www.cookieencoder.com/ for the main base of the application. But the rest was coded by me Icey#0002
 
